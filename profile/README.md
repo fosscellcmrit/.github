@@ -1,6 +1,6 @@
 # FOSS Cell, CMR Institute of Technology
 
-Welcome to FOSS Cell, CMRIT! We are a community of students at CMR Institute of Technology who are passionate about Free and Open Source Software (FOSS). Our goal is to provide a platform for students to contribute to simple FOSS projects and learn about open source development.
+Welcome to FOSS Cell, CMRIT! We are a community of students at CMR Institute of Technology who are passionate about Free and Open Source Software (FOSS). Our goal is to provide a platform for students to contribute to FOSS projects and learn about open source development.
 
 ## About Our Projects
 
